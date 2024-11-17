@@ -26,7 +26,7 @@ date:
   24_hours: true
 
 positions:
-  - Software engineer
+  - marketing manager
 
 locations:
   - Germany
@@ -37,11 +37,11 @@ distance: 100
 
 company_blacklist:
   - wayfair
-  - Crossover
+  - Bajaj
 
 title_blacklist:
-  - word1
-  - word2
+  - sales
+  - business
 
 location_blacklist:
   - Brazil
